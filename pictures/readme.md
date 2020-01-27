@@ -1,2 +1,4 @@
 some pictures
-![](https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/images/8.jpg)
+
+![](https://github.com/Mr-zhangze/picture/blob/master/pictures/1.27-01.png)
+![](https://github.com/Mr-zhangze/picture/blob/master/pictures/1.27-02.png)
